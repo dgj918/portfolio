@@ -1,0 +1,7 @@
+{
+    "tableName": "ProjectTracker",
+    "partitionKeyName": "ID",
+    "partitionKeyType": "N",
+    "sortKeyName": "ProjHier",
+    "sortKeyType": "S"
+}

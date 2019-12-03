@@ -10,6 +10,10 @@
 		"ticketTracker": {
 			"service": "DynamoDB",
 			"providerPlugin": "awscloudformation"
+		},
+		"ProjectTracker": {
+			"service": "DynamoDB",
+			"providerPlugin": "awscloudformation"
 		}
 	}
 }
