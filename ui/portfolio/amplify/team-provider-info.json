@@ -1,0 +1,21 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "portfolio-prod-20191126062005-authRole",
+            "UnauthRoleArn": "arn:aws:iam::120388554580:role/portfolio-prod-20191126062005-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::120388554580:role/portfolio-prod-20191126062005-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "portfolio-prod-20191126062005-deployment",
+            "UnauthRoleName": "portfolio-prod-20191126062005-unauthRole",
+            "StackName": "portfolio-prod-20191126062005",
+            "StackId": "arn:aws:cloudformation:us-east-2:120388554580:stack/portfolio-prod-20191126062005/14661be0-1047-11ea-9fa7-0294f7a52ca2"
+        },
+        "categories": {
+            "auth": {
+                "portfolio19f63e4c": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"a\",\"client_secret\":\"a\"},{\"ProviderName\":\"Google\",\"client_id\":\"a\",\"client_secret\":\"a\"},{\"ProviderName\":\"LoginWithAmazon\",\"client_id\":\"a\",\"client_secret\":\"a\"}]"
+                }
+            }
+        }
+    }
+}
